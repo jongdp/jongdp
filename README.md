@@ -15,7 +15,6 @@ Computer Science graduate from Northwestern University interested in backend eng
 - **Languages:** Python, Java, SQL, JavaScript (Node.js), C, C++, C#, ARM Assembly, GLSL
 - **Backend & cloud:** Express, REST APIs, AWS (Lambda, DynamoDB, S3, SNS, EventBridge, Elastic Beanstalk)
 - **Tools:** Git/GitHub, AWS CLI, MySQL, WebGL
-Open to software engineering roles in backend, cloud, and financial technology. I speak English and Spanish.
  
 #### Connect
 [LinkedIn](https://www.linkedin.com/in/jongdp) · [Email](mailto:gjonathan168@gmail.com)
